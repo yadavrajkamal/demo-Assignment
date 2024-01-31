@@ -1,0 +1,17 @@
+﻿DEMO ASSIGNMENT
+
+
+1.What is HTML?
+HTML stand for hyper text markup language, we can create webpages and websites using HTML.
+
+
+2.What is CSS?
+CSS stand for cascading style sheet, We can designed websites using css. 
+
+
+3.What is the difference between front-end and back-end development?
+          The front-end is what your user see and include visual element like buttons, checkboxes, and text massages. It allow to your users to interact with your application. The back-end is the data and infrastructure that make your application works.it store your data for you user.
+4.What is JavaScript?
+             JavaScript is a dynamic programming language that is use for web development. It allows you to implement dynamic features on web pages that can not be done only HTML and CSS.
+5.What is a responsive web design?
+            A web design approach to make web pages render well on all screen sizes and resolutions while ensuring good usability.
